@@ -1,0 +1,13 @@
+audio
+data
+fonts
+icon
+img
+js 
+debug.html
+node_modules
+.vscode
+src
+dist/debug*
+tsconfig.json
+webpack.dev.js

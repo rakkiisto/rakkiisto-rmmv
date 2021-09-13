@@ -1,6 +1,4 @@
-PIXI.utils.skipHello()
-
-PluginManager.setup($plugins)
-
-//@ts-ignore
-SceneManager.run(Scene_Boot)
+export { RakkiistoMV } from './RakkiistoMV'
+export * from './static'
+export * from './objects'
+export * from './plugins'

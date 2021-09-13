@@ -3,6 +3,6 @@ data
 fonts
 icon
 img
-js
-index.html
+js 
 node_modules
+dist

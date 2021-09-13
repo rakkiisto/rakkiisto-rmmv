@@ -3,11 +3,12 @@
   "name": "rakkiisto-rmmv",
   "description": "RPG Maker MV plugin by rakkiisto",
   "main": "dist/index.js",
+  "version": "0.1.0-alpha",
   "scripts": {
     "dev": "webpack serve --config webpack.dev.js"
   },
   "dependencies": {
-    "rakkiisto-dom": "0.1.0-alpha"
+    "rakkiisto-vector": "^2"
   },
   "devDependencies": {
     "typescript": "^4",
